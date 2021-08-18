@@ -2,12 +2,12 @@ name: Hello osca
 description: Say hello to osca
 
 inputs:
-  leader:
-    description: Osca Leader
+  member1:
+    description: Oca Leader
     required: true
 
-  member:
-    description: Osca Member
+  member2:
+    description: Oca Member
     required: false
 
 runs:
