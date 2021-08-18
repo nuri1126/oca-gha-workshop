@@ -3,11 +3,11 @@ description: Say hello to osca
 
 inputs:
   member1:
-    description: Oca Leader
+    description: Oca Member1
     required: true
 
   member2:
-    description: Oca Member
+    description: Oca Member2
     required: false
 
 runs:

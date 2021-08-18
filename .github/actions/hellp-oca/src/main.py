@@ -1,8 +1,8 @@
 import sys
 import os
 
-getEnvLeader = os.environ.get("INPUT_LEADER")
-getEnvMember = os.environ.get("INPUT_MEMBER")
+getEnvMember1 = os.environ.get("INPUT_MEMBER1")
+getEnvMember2 = os.environ.get("INPUT_MEMBER2")
 
 print("Hello " + getEnvMember1)
 print("Hello " + getEnvMember2)
